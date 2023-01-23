@@ -1,8 +1,8 @@
 # Streaming Fair DR-submodular Maximization over Integer Lattice
 ## Dataset preparing
 ### Dataset: [ca-GrQc](http://snap.stanford.edu/data/ca-GrQc.html)
-### 1.Extract n different FromNodeIDs from the ca-GrQc data as element E. The element is hashed and mapped to 1..... n.
-### 2.A set in the submodule function which corresponds to each element FromNodeID is composed of ToNodeIDs corresponding to FromNodeID;
+### 1.Extract n different FromNodeIDs from the ca-GrQc data as element E. The element is hashed and mapped to *1*.....*n*.
+### 2.A set of nodes in ToNodeIDs are corresponding to an element in FromNodeID according to the submodular function;
 ***
 ## Data Input
 ### 1. Input the number of elements *n* and the number of sets *m*
@@ -10,7 +10,7 @@
 ### 2. Input the elements of m sets 
 ### 3. Input the constraint of m sets *k<sub>1</sub>...k<sub>m</sub>*
 ### 4. Input the constraint vector of n elements *b*
-### The required parameters of the sub-module function f(x): 
+### The required parameters of the submodular function f(x): 
 ### 1. Input the elements of n sets
 ### 2. Input the overflow constraint of elements *d*
 ***
