@@ -2,11 +2,11 @@
 ## Dataset preparing
 ### Dataset: [ca-GrQc](http://snap.stanford.edu/data/ca-GrQc.html)
 ### 1.Extract n different FromNodeIDs from the ca-GrQc data as element E. The element is hashed and mapped to *1*.....*n*.
-### 2.A set of nodes in ToNodeIDs are corresponding to an element in FromNodeID according to the submodular function;
+### 2.A set of nodes in ToNodeIDs are corresponding to an element in FromNodeID according to the submodular function
 ***
 ## Data Input
 ### 1. Input the number of elements *n* and the number of sets *m*
-#### (Randomly assign n elements to m sets to ensure that no two sets shall have common element and each set shall be assigned at least one element); 
+#### (Randomly assign n elements to m sets to ensure that no two sets shall have common element and each set shall be assigned at least one element);
 ### 2. Input the elements of m sets 
 ### 3. Input the constraint of m sets *k<sub>1</sub>...k<sub>m</sub>*
 ### 4. Input the constraint vector of n elements *b*
@@ -19,5 +19,5 @@
 ***
 ## Sample
 ### Download the code and run the STREAM.cpp, OFFLINE.cpp, RANDOM.cpp, or OPTIMUM.cpp directly. 
-### In this test sample，the code will read the input.txt file as input data and output the result data in the algorithm_output.txt file. 
+### In this test sample，the code will read the ‘input.txt’ file as input data and output the result data in the ‘algorithm_output.txt’ file. 
 ***
