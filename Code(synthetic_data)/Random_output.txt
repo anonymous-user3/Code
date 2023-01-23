@@ -1,0 +1,5 @@
+Max(f(x))£º
+33
+The selected elements are as follows£º
+0 0 0 0 1 0 2 2 2 2 0 0 0 1 1 1 1 1 0 0 
+time= 0.00000 

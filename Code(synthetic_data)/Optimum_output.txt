@@ -1,0 +1,6 @@
+Max(f(x))£º
+42
+The selected elements are as follows£º:
+1 0 3 1 2 0 2 0 2 3 0 0 0 1 2 0 0 1 2 0 
+t=
+104.64100 
