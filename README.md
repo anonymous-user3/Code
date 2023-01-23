@@ -19,5 +19,5 @@
 ***
 ## Sample
 ### Download the code and run the STREAM.cpp, OFFLINE.cpp, RANDOM.cpp, or OPTIMUM.cpp directly. 
-### In this test sample，the code will read the input.txt file as input data and output the result data in the algorithm_name_output.txt file. 
+### In this test sample，the code will read the input.txt file as input data and output the result data in the algorithm_output.txt file. 
 ***
